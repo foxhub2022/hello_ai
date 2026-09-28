@@ -36,4 +36,7 @@ python tool_call.py
 
 # Responses API + Web Search 服务端联网搜索 Demo
 python web_search_responses.py
+
+# 串行多轮对话
+python serial_chat.py
 ```
